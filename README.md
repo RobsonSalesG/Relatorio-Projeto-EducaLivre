@@ -23,7 +23,6 @@ Plataforma de cursos gratuitos, compatível com dispositivos antigos, com acesso
 
 - Acesso off-line a videoaulas e materiais  
 - Compatível com dispositivos antigos  
-- Recursos de acessibilidade WCAG 2.1  
 - Baixo consumo de dados e bateria  
 
 ---
